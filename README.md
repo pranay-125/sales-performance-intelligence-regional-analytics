@@ -156,6 +156,19 @@ The analysis helps identify high-performing markets, profitable products, and se
 </table>
 
 <hr>
+<p>
+  <img width="1920" height="1080" alt="Screenshot 2026-04-08 174729" src="https://github.com/user-attachments/assets/f5819274-fc14-4800-9618-5d61b3121825" />
+</p>
+
+<p>
+  <img width="1920" height="1080" alt="Screenshot 2026-04-08 174718" src="https://github.com/user-attachments/assets/b8d59a11-bccc-4147-94d1-a3117c68a495" />
+</p>
+
+<p>
+  <img width="1920" height="1080" alt="Screenshot 2026-04-08 174706" src="https://github.com/user-attachments/assets/d66874da-5196-4a71-99e8-57c30d01cc44" />
+</p>
+
+<hr>
 
 <h2>Dataset Overview</h2>
 
