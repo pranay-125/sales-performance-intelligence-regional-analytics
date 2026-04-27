@@ -46,15 +46,24 @@ To design an interactive business intelligence dashboard that enables <b>data-dr
 
 <h2>📊 Dashboard Preview</h2>
 
-<h3>📊 Executive Overview & Trends</h3>
+<p><b>Dashboard Objective:</b> 
+To provide a comprehensive business intelligence solution that enables stakeholders to monitor performance, identify growth opportunities, and support data-driven decision making across products, customers, and regions.
+</p>
+
+<h3> Executive Overview & Trends</h3>
 
 <p>
-<b>Executive Performance Dashboard:</b> 
-Tracks key business KPIs including total revenue, profit, profit margin, and order volume to provide a high-level view of business performance.
+<b> Executive Performance Dashboard </b> 
+Provides a high-level view of business performance by tracking key KPIs such as total revenue ($1.2B), profit ($461.8M), profit margin (37.36%), and order volume. 
 </p>
 
 <p>
-Analyzes <b>monthly revenue and profit trends</b> to identify seasonality patterns and growth momentum, while also evaluating customer spending behavior and pricing efficiency.
+The dashboard highlights <b>monthly revenue and profit trends</b>, enabling identification of seasonality patterns and growth momentum. 
+Customer purchasing behavior is analyzed through order value distribution and unit price vs. profit margin relationships, helping uncover <b>high-margin pricing opportunities and customer segments</b>.
+</p>
+
+<p>
+<b>Business Insight:</b> Enables leadership to monitor overall financial health, identify seasonal trends, and optimize pricing and customer segmentation strategies.
 </p>
 
 <p>
@@ -62,55 +71,61 @@ Analyzes <b>monthly revenue and profit trends</b> to identify seasonality patter
 </p>
 
 <p>
-  <img width="100%" src="https://github.com/user-attachments/assets/d66874da-5196-4a71-99e8-57c30d01cc44" />
+ <img width="1300" height="723" alt="Executive Performance Dashboard" src="https://github.com/user-attachments/assets/9d6380db-eda6-490b-ab8f-4063d8bcd2af" />
 </p>
 
 <hr>
 
-<h3>📊 Product & Channel Performance</h3>
+<h3> Product & Channel Performance </h3>
 
 <p>
 <b>Product & Channel Intelligence Dashboard:</b> 
-Evaluates revenue contribution and profitability across products and sales channels.
+Analyzes revenue contribution and profitability across products and sales channels to identify top-performing and high-margin opportunities.
 </p>
 
+<p>
+Highlights include:
 <ul>
-<li>Identifies <b>top-performing products</b> driving revenue</li>
-<li>Highlights <b>high-margin products</b> contributing to profitability</li>
-<li>Compares <b>revenue vs profitability</b> for strategic product positioning</li>
-<li>Analyzes <b>channel performance</b> (Wholesale, Distributor, Export)</li>
+<li><b>Top-performing products</b> driving revenue growth</li>
+<li><b>High-margin products</b> contributing to profitability</li>
+<li><b>Revenue vs Profitability analysis</b> to identify optimal product positioning</li>
+<li><b>Channel performance breakdown</b> (Wholesale, Distributor, Export)</li>
 </ul>
-
+</p>
+<img width="1299" height="721" alt="Product   Channel Performance" src="https://github.com/user-attachments/assets/bc759bb3-d3eb-4dc7-8720-0e0ccf78a83d" />
 <p>
-<b>Business Insight:</b> Supports product portfolio optimization and channel strategy to maximize profitability.
+<b>Business Insight:</b> Helps businesses optimize product portfolio, focus on high-margin offerings, and improve channel strategy for maximum profitability.
 </p>
 
 <p>
-  <img width="100%" src="https://github.com/user-attachments/assets/b8d59a11-bccc-4147-94d1-a3117c68a495" />
+  
 </p>
 
 <hr>
 
-<h3>📊 Geographic & Customer Insights</h3>
+<h3> Geographic & Customer Insights </h3>
 
 <p>
 <b>Regional & Customer Analytics Dashboard:</b> 
-Provides insights into revenue distribution and customer contribution across geographic markets.
+Provides insights into revenue distribution, customer contribution, and regional profitability across geographic markets.
 </p>
 
+<p>
+Key highlights include:
 <ul>
-<li>Identifies <b>top-performing regions and states</b></li>
-<li>Highlights <b>key customers driving revenue</b></li>
-<li>Analyzes <b>regional profitability differences</b></li>
-<li>Visualizes <b>geographic distribution of profit</b></li>
+<li>California contributes <b>19.5% of total revenue ($228.8M)</b></li>
+<li>West region achieves the <b>highest profit margin (37.5%)</b></li>
+<li>Top customers and states driving revenue concentration</li>
+<li>Geographical profit distribution across the United States</li>
 </ul>
-
-<p>
-<b>Business Insight:</b> Enables targeted regional strategies, customer prioritization, and market expansion planning.
 </p>
 
 <p>
-  <img width="100%" src="https://github.com/user-attachments/assets/f5819274-fc14-4800-9618-5d61b3121825" />
+<b>Business Insight:</b> Enables strategic decision-making in regional expansion, customer targeting, and resource allocation based on high-performing markets.
+</p>
+
+<p>
+  <img width="1295" height="727" alt="Geographic   Customer Insights" src="https://github.com/user-attachments/assets/81330d0e-785e-4d77-b4fa-2aa04716a004" />
 </p>
 
 <hr>
