@@ -277,15 +277,8 @@ This structure enables <b>fast querying, scalable analysis, and multi-dimensiona
 <p>
 <b>Pranay Shrivastava</b><br>
 B.Tech – Artificial Intelligence & Data Science<br>
-<b>Specialization:</b> Data Analytics | Business Intelligence<br><br>
-
-<b>Email:</b> <a href="mailto:shrivastavapranay.35@gmail.com">shrivastavapranay.35@gmail.com</a><br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">Pranay Shrivastava</a><br>
-<b>GitHub:</b> <a href="https://github.com/pranay-125">github.com/pranay-125</a>
-</p>
-
-<hr>
-
-<p align="center">
-<b>⭐ This project demonstrates strong analytical thinking, business understanding, and BI execution — aligned with real industry expectations.</b>
+<b>Specialization:</b> Data Analytics | Business Intelligence<br>
+<a href="mailto:shrivastavapranay.35@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a> |
+<a href="https://github.com/pranay-125">GitHub</a>
 </p>
