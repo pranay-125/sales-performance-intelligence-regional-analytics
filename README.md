@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20SQL-yellow?style=for-the-badge&logo=powerbi">
 <img src="https://img.shields.io/badge/Analysis-DAX%20%7C%20EDA%20%7C%20Data%20Modeling-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Domain-Sales%20Analytics-green?style=for-the-badge">
 </p>
