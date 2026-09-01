@@ -260,18 +260,6 @@ This structure enables <b>fast querying, scalable analysis, and multi-dimensiona
 
 <hr>
 
-<h2>🏆 What Makes This Project Strong</h2>
-
-<ul>
-<li><b>Quantified Insights</b> → Numbers, not vague statements</li>
-<li><b>Business Thinking</b> → Focus on decisions, not visuals</li>
-<li><b>End-to-End Ownership</b> → Data → Modeling → Dashboard</li>
-<li><b>Real-World Relevance</b> → Sales & BI use case</li>
-<li><b>Consulting-Level Storytelling</b></li>
-</ul>
-
-<hr>
-
 <h2>👨‍💻 Author</h2>
 
 <p>
