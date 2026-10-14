@@ -1,261 +1,377 @@
 <h1 align="center">Sales Performance Intelligence & Regional Analytics</h1>
 
 <p align="center">
-<b>Business Intelligence Case Study | Power BI | Sales Analytics | Profitability Optimization</b>
+  <b>Power BI Dashboard | Sales Performance | Product Analytics | Regional Profitability</b><br>
+  An interactive business intelligence portfolio project
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20SQL-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Analysis-DAX%20%7C%20EDA%20%7C%20Data%20Modeling-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Domain-Sales%20Analytics-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-Sales%20Analytics-1f6feb?style=for-the-badge" alt="Sales Analytics">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Focus-Revenue%20%26%20Profitability-238636?style=for-the-badge" alt="Revenue and Profitability">
+  <img src="https://img.shields.io/badge/Analysis-Product%20%7C%20Channel%20%7C%20Region-8957e5?style=for-the-badge" alt="Analysis Dimensions">
+</p>
+
+<p align="center">
+  <a href="https://github.com/pranay-125/sales-performance-intelligence-regional-analytics">View Repository</a> |
+  <a href="https://github.com/pranay-125">GitHub Profile</a>
 </p>
 
 <hr>
 
-<h2>📌 Project Context</h2>
+<h2>📌 Project Overview</h2>
 
 <p>
-This project delivers an end-to-end <b>Sales Performance Intelligence solution</b> designed to transform raw transactional sales data into <b>actionable business insights</b>.
+Sales Performance Intelligence & Regional Analytics is a Power BI dashboard project designed to present sales revenue, profitability, product performance, sales-channel contribution, geographic distribution, and customer-level metrics in a consolidated reporting interface.
 </p>
 
 <p>
-The analysis focuses on identifying <b>revenue drivers, profitability patterns, customer contribution, and regional performance disparities</b>, enabling stakeholders to make <b>data-driven strategic decisions</b>.
-</p>
-
-<p>
-The solution replicates a real-world <b>enterprise BI use case</b>, where leadership requires a centralized view of performance across products, regions, and customers.
-</p>
-
-<hr>
-
-<h2>🚀 Business Problem</h2>
-
-<p>
-Organizations often lack unified visibility into <b>sales, profitability, and regional performance</b>, leading to:
+The dashboard is organized into three analytical sections:
 </p>
 
 <ul>
-<li>Inability to identify <b>high-performing products and markets</b></li>
-<li>Poor visibility into <b>profitability vs revenue trade-offs</b></li>
-<li>Missed opportunities in <b>customer and regional optimization</b></li>
-<li>Reactive rather than <b>data-driven decision making</b></li>
+  <li><b>Executive Overview & Trends:</b> Headline financial KPIs, monthly revenue and profit visuals, order-value distribution, and unit-price versus profit-margin analysis.</li>
+  <li><b>Product & Channel Performance:</b> Product revenue rankings, product-level profitability comparisons, revenue-versus-margin positioning, and channel contribution.</li>
+  <li><b>Geographic & Customer Insights:</b> State and regional performance, customer rankings, regional profit margins, and a geographic profit map.</li>
 </ul>
 
 <p>
-This project addresses these gaps by building a <b>centralized analytics dashboard</b> that enables continuous performance monitoring.
+The purpose of the project is to demonstrate how a business intelligence dashboard can organize financial and commercial indicators for interactive exploration and performance reporting.
 </p>
 
 <hr>
 
-<h2>🎯 Objective</h2>
-
-<p>
-To design a <b>Power BI Sales Intelligence Dashboard</b> that enables:
-</p>
+<h2>🎯 Business Objectives</h2>
 
 <ul>
-<li>Tracking of <b>revenue, profit, and margin performance</b></li>
-<li>Identification of <b>top-performing products and customers</b></li>
-<li>Analysis of <b>regional sales distribution and profitability</b></li>
-<li>Detection of <b>seasonal demand trends</b></li>
-<li>Optimization of <b>pricing, product mix, and market focus</b></li>
+  <li>Monitor total revenue, total profit, profit margin, order volume, and revenue per order.</li>
+  <li>Compare revenue contributions across products and sales channels.</li>
+  <li>Examine regional and state-level sales distribution.</li>
+  <li>Compare profit margins across regions, products, and channels.</li>
+  <li>Explore monthly revenue and profit patterns through dashboard visuals.</li>
+  <li>Present customer-level revenue and margin measures in a structured interface.</li>
 </ul>
 
 <hr>
 
 <h2>📊 Dashboard Preview</h2>
 
-<h3>📈 Executive Performance & Trends</h3>
+<h3>1. 📈 Executive Overview & Trends</h3>
 
 <p>
-<b>Key KPIs:</b>
+This dashboard page summarizes the headline financial indicators and provides monthly trend and distribution visuals.
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/9d6380db-eda6-490b-ab8f-4063d8bcd2af" alt="Executive Overview and Trends Power BI dashboard">
+</p>
+
+<h4>Key Performance Indicators</h4>
+
+<table>
+  <tr>
+    <th align="left">KPI</th>
+    <th align="left">Dashboard Value</th>
+    <th align="left">Purpose</th>
+  </tr>
+  <tr>
+    <td>Total Revenue</td>
+    <td><b>~$1.2 billion</b></td>
+    <td>Summarizes recorded sales value.</td>
+  </tr>
+  <tr>
+    <td>Total Profit</td>
+    <td><b>~$461.8 million</b></td>
+    <td>Summarizes the reported profit measure.</td>
+  </tr>
+  <tr>
+    <td>Profit Margin</td>
+    <td><b>37.36%</b></td>
+    <td>Shows the dashboard's overall profitability ratio.</td>
+  </tr>
+  <tr>
+    <td>Total Orders</td>
+    <td><b>64K</b></td>
+    <td>Shows the reported order count, rounded.</td>
+  </tr>
+  <tr>
+    <td>Revenue per Order</td>
+    <td><b>~$19.3K</b></td>
+    <td>Shows average revenue per recorded order, as displayed.</td>
+  </tr>
+</table>
+
+<h4>Visuals Included</h4>
+
 <ul>
-<li><b>Total Revenue:</b> ~$1.2B</li>
-<li><b>Total Profit:</b> ~$461.8M</li>
-<li><b>Profit Margin:</b> 37.36%</li>
-<li><b>Order Volume:</b> High-volume transactional dataset (~3M+ units)</li>
+  <li>Monthly revenue trend.</li>
+  <li>Monthly profit trend.</li>
+  <li>Order-value distribution.</li>
+  <li>Unit price versus profit margin scatter plot.</li>
 </ul>
 
 <p>
-<b>Quantified Insights:</b>
-</p>
-
-<ul>
-<li>Revenue remains stable within a <b>$24M–$26M monthly range</b>, indicating consistent demand</li>
-<li>Peak sales observed during <b>May–July (~8–12% higher than average months)</b></li>
-<li>Profit margin remains consistently above <b>35%</b>, indicating strong pricing strategy</li>
-<li>Outlier drop observed in early 2017 suggests potential operational or demand disruption</li>
-</ul>
-
-<p>
-<b>Business Impact:</b> Enables leadership to monitor financial health, identify seasonal peaks, and optimize pricing strategies.
-</p>
-
-<p>
-<img width="1300" src="https://github.com/user-attachments/assets/9d6380db-eda6-490b-ab8f-4063d8bcd2af">
+<b>Interpretation note:</b> The monthly charts display the reported monthly pattern, but a validated seasonal or year-over-year conclusion is not asserted because the date fields in the supporting data have not been reconciled.
 </p>
 
 <hr>
 
-<h3>📦 Product & Channel Performance</h3>
+<h3>2. 📦 Product & Channel Performance</h3>
 
-<p>
-<b>Key Observations:</b>
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/bc759bb3-d3eb-4dc7-8720-0e0ccf78a83d" alt="Product and Channel Performance Power BI dashboard">
 </p>
 
+<p>
+This page compares product revenue, product-level average profit margins, revenue-versus-margin positioning, and the contribution of wholesale, distributor, and export channels.
+</p>
+
+<h4>Top Products by Revenue</h4>
+
+<table>
+  <tr>
+    <th align="left">Product</th>
+    <th align="right">Dashboard Revenue</th>
+  </tr>
+  <tr>
+    <td>Product 26</td>
+    <td align="right">~$117 million</td>
+  </tr>
+  <tr>
+    <td>Product 25</td>
+    <td align="right">~$109 million</td>
+  </tr>
+  <tr>
+    <td>Product 13</td>
+    <td align="right">~$78 million</td>
+  </tr>
+  <tr>
+    <td>Product 14</td>
+    <td align="right">~$75 million</td>
+  </tr>
+  <tr>
+    <td>Product 5</td>
+    <td align="right">~$71 million</td>
+  </tr>
+</table>
+
+<h4>Sales Channel Contribution</h4>
+
+<table>
+  <tr>
+    <th align="left">Channel</th>
+    <th align="right">Revenue</th>
+    <th align="right">Revenue Share</th>
+  </tr>
+  <tr>
+    <td>Wholesale</td>
+    <td align="right">~$668.20M</td>
+    <td align="right">54.06%</td>
+  </tr>
+  <tr>
+    <td>Distributor</td>
+    <td align="right">~$387.14M</td>
+    <td align="right">31.32%</td>
+  </tr>
+  <tr>
+    <td>Export</td>
+    <td align="right">~$180.63M</td>
+    <td align="right">14.61%</td>
+  </tr>
+</table>
+
+<p>
+The dashboard shows wholesale as the largest revenue channel, followed by distributor and export. The displayed channel revenue shares total approximately 100%, subject to rounding.
+</p>
+
+<h4>Visuals Included</h4>
+
 <ul>
-<li>Top 2 products contribute <b>~18–22% of total revenue</b>, indicating revenue concentration</li>
-<li>Top 5 products together contribute <b>~40%+ of total sales</b></li>
-<li>Mid-tier products generate stable revenue but show <b>~10–15% lower margins</b></li>
-<li>Wholesale and Distributor channels contribute majority of volume</li>
+  <li>Top products ranked by revenue.</li>
+  <li>Products ranked by average profit margin.</li>
+  <li>Revenue-versus-profit-margin scatter plot.</li>
+  <li>Revenue contribution by sales channel.</li>
+  <li>Profit contribution by sales channel.</li>
+  <li>Channel-level margin comparison.</li>
 </ul>
 
 <p>
-<b>Quantified Insights:</b>
+<b>Interpretation note:</b> Revenue leadership and margin leadership are different measures. A product or channel with higher revenue is not automatically the most profitable on a percentage-margin basis.
 </p>
-
-<ul>
-<li>Product 26 generates <b>~$118M revenue</b> (highest contributor)</li>
-<li>Product 25 follows with <b>~$110M</b></li>
-<li>Lower-tier products drop to <b>$52M–$57M range</b>, showing steep performance gap</li>
-</ul>
-
-<p>
-<b>Business Impact:</b> Supports product portfolio optimization and helps shift focus toward high-margin products.
-</p>
-
-<img width="1299" src="https://github.com/user-attachments/assets/bc759bb3-d3eb-4dc7-8720-0e0ccf78a83d">
 
 <hr>
 
-<h3>🌍 Geographic & Customer Insights</h3>
+<h3>3. 🌍 Geographic & Customer Insights</h3>
 
-<p>
-<b>Regional Performance:</b>
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/81330d0e-785e-4d77-b4fa-2aa04716a004" alt="Geographic and Customer Insights Power BI dashboard">
 </p>
 
+<p>
+This page presents state-level revenue, regional revenue contribution, regional profit margins, customer-level rankings, and geographic profit distribution.
+</p>
+
+<h4>Top States by Revenue</h4>
+
+<table>
+  <tr>
+    <th align="left">State</th>
+    <th align="right">Dashboard Revenue</th>
+  </tr>
+  <tr>
+    <td>California</td>
+    <td align="right">~$228.79M</td>
+  </tr>
+  <tr>
+    <td>Illinois</td>
+    <td align="right">~$111.05M</td>
+  </tr>
+  <tr>
+    <td>Florida</td>
+    <td align="right">~$90.20M</td>
+  </tr>
+  <tr>
+    <td>Texas</td>
+    <td align="right">~$84.01M</td>
+  </tr>
+  <tr>
+    <td>New York</td>
+    <td align="right">~$55.53M</td>
+  </tr>
+</table>
+
+<h4>Regional Revenue Contribution</h4>
+
+<table>
+  <tr>
+    <th align="left">Region</th>
+    <th align="right">Revenue</th>
+    <th align="right">Share of Revenue</th>
+  </tr>
+  <tr>
+    <td>West</td>
+    <td align="right">~$372.14M</td>
+    <td align="right">30.11%</td>
+  </tr>
+  <tr>
+    <td>South</td>
+    <td align="right">~$335.14M</td>
+    <td align="right">27.12%</td>
+  </tr>
+  <tr>
+    <td>Midwest</td>
+    <td align="right">~$320.32M</td>
+    <td align="right">25.92%</td>
+  </tr>
+  <tr>
+    <td>Northeast</td>
+    <td align="right">~$208.37M</td>
+    <td align="right">16.86%</td>
+  </tr>
+</table>
+
+<h4>Geographic Findings</h4>
+
 <ul>
-<li>California contributes <b>~19.5% of total revenue (~$228.8M)</b></li>
-<li>West region generates highest profit margin at <b>~37.5%</b></li>
-<li>Top 5 states contribute <b>~45%+ of total revenue</b></li>
+  <li>The West is the largest regional revenue contributor at approximately $372.14 million.</li>
+  <li>California is the highest-revenue state shown, at approximately $228.79 million.</li>
+  <li>The dashboard reports regional profit margins in a relatively narrow range of approximately 37.1%–37.5%.</li>
+  <li>The geographic map visualizes profit distribution across U.S. states.</li>
 </ul>
 
 <p>
-<b>Customer Insights:</b>
-</p>
-
-<ul>
-<li>Top customers contribute disproportionately to revenue (Pareto effect ~20/80)</li>
-<li>High-value customers show <b>~25–30% higher average order value</b></li>
-</ul>
-
-<p>
-<b>Business Impact:</b> Enables targeted regional expansion and high-value customer retention strategies.
-</p>
-
-<p>
-<img width="1295" src="https://github.com/user-attachments/assets/81330d0e-785e-4d77-b4fa-2aa04716a004">
+The dashboard also includes customer-level revenue and percentage-based rankings. Because the meaning and aggregation of the percentage measure have not been independently confirmed, this README does not interpret it as customer profit margin, revenue share, or a validated Pareto relationship.
 </p>
 
 <hr>
 
-<h2>📊 Key Metrics</h2>
+<h2>📐 KPI Definitions</h2>
 
-<table border="1" cellpadding="8" cellspacing="0">
-<tr>
-<th>KPI</th>
-<th>Value</th>
-<th>Business Insight</th>
-</tr>
-
-<tr>
-<td>Total Revenue</td>
-<td>$1.2B</td>
-<td>Strong revenue generation across regions</td>
-</tr>
-
-<tr>
-<td>Total Profit</td>
-<td>$461.8M</td>
-<td>Healthy profitability with optimized cost structure</td>
-</tr>
-
-<tr>
-<td>Profit Margin</td>
-<td>37.36%</td>
-<td>High margin indicates strong pricing power</td>
-</tr>
-
-<tr>
-<td>Units Sold</td>
-<td>~3M+</td>
-<td>High demand across product portfolio</td>
-</tr>
-
-<tr>
-<td>Top Product Contribution</td>
-<td>~18–22%</td>
-<td>Revenue concentration in key products</td>
-</tr>
-
+<table>
+  <tr>
+    <th align="left">Metric</th>
+    <th align="left">Definition</th>
+  </tr>
+  <tr>
+    <td>Total Revenue</td>
+    <td>Dashboard-reported aggregate sales revenue.</td>
+  </tr>
+  <tr>
+    <td>Total Profit</td>
+    <td>Dashboard-reported aggregate profit.</td>
+  </tr>
+  <tr>
+    <td>Profit Margin</td>
+    <td>Profit expressed as a percentage of revenue; displayed overall value is 37.36%.</td>
+  </tr>
+  <tr>
+    <td>Total Orders</td>
+    <td>Dashboard-reported order count, displayed as 64K.</td>
+  </tr>
+  <tr>
+    <td>Revenue per Order</td>
+    <td>Total revenue divided by the order count used by the dashboard; displayed as approximately $19.3K.</td>
+  </tr>
+  <tr>
+    <td>Regional Revenue</td>
+    <td>Revenue grouped by the dashboard's region categories.</td>
+  </tr>
+  <tr>
+    <td>Product Revenue</td>
+    <td>Revenue grouped by product.</td>
+  </tr>
+  <tr>
+    <td>Channel Revenue</td>
+    <td>Revenue grouped by wholesale, distributor, and export channels.</td>
+  </tr>
+  <tr>
+    <td>Average Profit Margin by Product or Channel</td>
+    <td>Percentage-based comparison shown in the relevant dashboard visuals. The precise averaging and weighting logic has not been independently inspected.</td>
+  </tr>
 </table>
 
 <hr>
 
-<h2>⚙️ Approach</h2>
-
-<ol>
-<li><b>Data Cleaning:</b> Processed raw data using Power Query</li>
-<li><b>Feature Engineering:</b> Created time-based and profitability metrics</li>
-<li><b>Data Modeling:</b> Designed star schema (Fact + Dimensions)</li>
-<li><b>DAX Calculations:</b> Built KPIs such as revenue, margin, growth</li>
-<li><b>Dashboard Design:</b> Developed interactive visuals for business insights</li>
-</ol>
-
-<hr>
-
-<h2>🧩 Data Model</h2>
-
-<ul>
-<li><b>Fact Table:</b> Sales Transactions</li>
-<li><b>Dimensions:</b> Product, Region, Date</li>
-</ul>
+<h2>🛠️ Tools & Technologies</h2>
 
 <p>
-This structure enables <b>fast querying, scalable analysis, and multi-dimensional insights</b>.
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-f2c811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-KPI%20Measures-217346?style=flat-square" alt="DAX">
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Preparation-5c2d91?style=flat-square" alt="Power Query">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-Reporting-1f6feb?style=flat-square" alt="Business Intelligence">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Analytics-8957e5?style=flat-square" alt="Data Visualization">
 </p>
 
-<hr>
-
-<h2>🔍 Key Insights</h2>
-
 <ul>
-<li>Revenue is highly concentrated → <b>top 5 products contribute ~40%+</b></li>
-<li>West region dominates → <b>highest revenue + highest margin</b></li>
-<li>Seasonality observed → <b>mid-year peak (~10% increase)</b></li>
-<li>Margin imbalance → <b>high revenue ≠ high profitability</b></li>
-<li>Regional gaps → <b>South shows lower contribution → growth opportunity</b></li>
+  <li><b>Power BI:</b> Interactive report pages and business performance visualizations.</li>
+  <li><b>DAX:</b> Associated with dashboard KPI calculations and percentage-based measures; exact measure definitions require PBIX inspection.</li>
+  <li><b>Power Query:</b> Relevant to the data-preparation workflow, where applicable to the retained report.</li>
+  <li><b>Business Intelligence:</b> KPI reporting, product comparisons, channel contribution, and regional analysis.</li>
 </ul>
 
 <hr>
 
-<h2>💼 Business Impact</h2>
+<h2>🔍 Analytical Scope & Limitations</h2>
 
 <ul>
-<li>Improved visibility into <b>$1.2B+ revenue operations</b></li>
-<li>Identified <b>high-margin optimization opportunities</b></li>
-<li>Enabled <b>region-based strategic expansion</b></li>
-<li>Supported <b>data-driven pricing and product decisions</b></li>
+  <li>The dashboard is the primary reporting artifact for this portfolio project.</li>
+  <li>The headline KPIs and displayed rankings are presented as dashboard-reported values.</li>
+  <li>Monthly trend visuals are included, but seasonal and year-over-year claims are not asserted because the supporting date fields have not been reconciled.</li>
+  <li>The previous presentation's figures of approximately $310 million revenue, $75 million profit, 24% margin, and 3.1 million units sold are excluded because they conflict with the current dashboard.</li>
+  <li>The underlying raw-to-clean data transformation has not been fully reconciled; this README therefore does not claim that all dashboard measures have been independently reproduced.</li>
+  <li>No measured business outcome, such as increased revenue, reduced cost, or improved profitability after implementation, is claimed.</li>
 </ul>
 
 <hr>
 
-<h2>🛠 Tools & Technologies</h2>
+<h2>🏁 Project Outcome</h2>
 
 <p>
-<b>Power BI</b> | <b>DAX</b> | <b>Power Query</b> | <b>Data Modeling</b> | <b>EDA</b>
+The project demonstrates the presentation of sales performance indicators through a multi-page Power BI dashboard covering executive KPIs, product performance, channel contribution, geographic distribution, and customer-level analysis.
+</p>
+
+<p>
+It showcases dashboard design and business reporting across multiple analytical dimensions while keeping conclusions within the limits of the displayed evidence.
 </p>
 
 <hr>
@@ -263,10 +379,17 @@ This structure enables <b>fast querying, scalable analysis, and multi-dimensiona
 <h2>👨‍💻 Author</h2>
 
 <p>
-<b>Pranay Shrivastava</b><br>
-B.Tech – Artificial Intelligence & Data Science<br>
-<b>Specialization:</b> Data Analytics | Business Intelligence<br>
-<a href="mailto:shrivastavapranay.35@gmail.com">Email</a> |
-<a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a> |
-<a href="https://github.com/pranay-125">GitHub</a>
+  <b>Pranay Shrivastava</b><br>
+  B.Tech – Artificial Intelligence & Data Science<br>
+  <b>Specialization:</b> Data Analytics | Business Intelligence
+</p>
+
+<p>
+  <a href="mailto:shrivastavapranay35@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a> |
+  <a href="https://github.com/pranay-125">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Sales Analytics | Power BI | Profitability Reporting | Regional Performance Intelligence</i>
 </p>
